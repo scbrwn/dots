@@ -1,0 +1,126 @@
+{
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "css.validate": true,
+
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.lightbulb.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "explorer.openEditors.visible": 0,
+  "explorer.confirmDelete": false,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.colorDecorators": true,
+  "emmet.triggerExpansionOnTab": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.autofetch": true,
+  "editor.wordWrap": "on",
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[md]": {
+    "other": false,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "strings": false
+    }
+  },
+  "editor.fontFamily": "Geist Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.scrollbar.horizontalScrollbarSize": 8,
+
+  "breadcrumbs.enabled": false,
+  "debug.javascript.codelens.npmScripts": "never",
+  "editor.cursorBlinking": "solid",
+  "editor.parameterHints.enabled": false,
+  "editor.rulers": [],
+  "explorer.decorations.badges": false,
+  "explorer.decorations.colors": false,
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": true
+  },
+  "svelte.enable-ts-plugin": true,
+  "[dockerfile]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "svelte.plugin.svelte.note-new-transformation": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000005"
+        }
+      }
+    ]
+  },
+  "editor.formatOnSave": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.iconTheme": "city-lights-icons-vsc",
+  "hubspot.neverUseHubl": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.activityBar.location": "top",
+  "files.associations": {
+    "*.html": "html-hubl",
+    "*.css": "css"
+  },
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden"
+}
